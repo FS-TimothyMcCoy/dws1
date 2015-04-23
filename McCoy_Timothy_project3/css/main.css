@@ -1,0 +1,94 @@
+/* ---------- Body Elements ----------*/
+body{
+background-color: #00FFFF;  
+margin: auto;
+font-family: Times New Roman, Georgia;
+line-height:1.4;
+}
+
+#boxbody{
+width: 770px;
+height: 2670px;
+border: 1px solid #000;
+margin: auto;
+background-color: #CCFFFF;
+box-shadow: 5px 5px 10px #000;
+padding: 24px;
+border-radius: 15px;
+}
+
+/* ---------- Head Elements ----------*/
+header{
+text-shadow: 2px 2px  #87C6C6;
+text-align: center;
+}
+
+
+/* ------- Navigation Elements -------*/
+nav{
+font-weight: 900;
+font-style: italic;
+}
+
+/* ------- Section Elements -------*/
+section{
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+}
+
+#floatedsection{
+
+}
+
+/* ------- Aside Elements -------*/
+aside{
+font-size: 14px;
+}
+
+/* ------- Footer Elements -------*/
+footer{
+font-size: 14px;
+}
+
+/*------ Anchor Elements -------*/
+a{
+text-decoration: none;
+}
+a:link {
+color: #FF3300;
+}
+a:visited{
+color: #0000CC;
+}
+a:hover{
+color: #FF00FF;
+text-decoration: underline;
+}
+a:active{
+color: #000;
+}
+li.list1{
+display: inline-block;
+padding: 2px;
+}
+#a{
+list-style-type: lower-roman;
+}
+ul{
+text-align: center;
+}
+
+/* --------- Misc. ID --------- */
+#maincharacters{
+font-family: Times New Roman, Georgia;
+width: 646px;
+height: 50px;
+padding: 4px;
+border: 1px solid #000;
+margin: 4px;
+display: inline-block;
+background-color: #D1FFFF;
+opacity: 0.8;
+box-shadow: 5px 5px 10px #000;
+font-weight: 200;
+}
