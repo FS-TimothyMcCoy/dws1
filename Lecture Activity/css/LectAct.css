@@ -1,0 +1,12 @@
+blockquote{
+border-top: solid #000 4px;
+border-bottom: solid #000 4px;
+float: right;
+width: 500px;
+}
+/*All rights to this image are owned by Evan Eckard*/
+body{
+background-image: url("../images/foxtail.png"); 
+background-repeat: repeat;
+background-attachment: fixed;  
+}
