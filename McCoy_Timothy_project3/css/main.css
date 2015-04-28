@@ -54,6 +54,15 @@ padding: 10px;
 clear: both;
 }
 
+#table{
+
+}
+td {
+ background-color: #00FFFF;
+ padding: 5px;
+  width: 150px;
+  opacity: 0.3;
+
 /* ------- Aside Elements -------*/
 aside{
 font-size: 0.875em;
