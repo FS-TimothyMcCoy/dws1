@@ -11,7 +11,7 @@ background-attachment: fixed;
 }
 
 #boxbody{
-width: 770px;
+width: 74%;
 height: 3430px;
 border: 1px solid #000;
 margin: auto;
@@ -24,7 +24,7 @@ background-repeat: no-repeat;
 background-position: top center;
 }
 #fixedparagraph{
-width: 440px
+width: 90%;
 }
 
 /* ---------- Head Elements ----------*/
@@ -51,12 +51,12 @@ border-bottom: solid #000 3px;
 section{
 font-family: 'Roboto', sans-serif;
 font-weight: 400;
-width: 500px;
+width: 60%;
 }
 
 #floatedsection{
 float: right;
-width: 31.250em;
+width: 60%;
 margin: 0.000em auto;
 padding: 10px;
 clear: both;
@@ -66,7 +66,7 @@ clear: both;
 
 #table{
 float: right;
-width: 250px;
+width: 38%;
 padding: 20px;
 box-shadow: 4px 4px 4px 4px #00FF7F;
 font-size: 10px;
@@ -146,7 +146,7 @@ text-align: center;
 /* --------- Misc. ID --------- */
 #maincharacters{
 font-family: Times New Roman, Georgia;
-width: 28.5000em;
+width: 60%;
 height: 50px;
 padding: 8px;
 border: 1px solid #000;
@@ -166,7 +166,7 @@ background: -ms-linear-gradient(top,  #efc5ca 0%,#ba2737 36%,#ba2737 36%,#d24b5a
 background: linear-gradient(to bottom,  #efc5ca 0%,#ba2737 36%,#ba2737 36%,#d24b5a 50%,#ba2737 81%,#f18e99 100%); /* W3C */
 }
 input{
-width: 120px;
+width: 15%;
 }
 input:focus{
 background-color: #FF0000;
